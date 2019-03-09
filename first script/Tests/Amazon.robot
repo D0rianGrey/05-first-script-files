@@ -2,7 +2,7 @@
 Documentation  This is some basic info about the whole suite
 Library  SeleniumLibrary
 
-# robot -d results tests/amazon.robot
+# robot -d results Amazon.robot
 
 *** Variables ***
 
