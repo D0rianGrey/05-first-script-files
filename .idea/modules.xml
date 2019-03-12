@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/05-first-script-files.iml" filepath="$PROJECT_DIR$/.idea/05-first-script-files.iml" />
+      <module fileurl="file://C:/Batch/.idea/Batch.iml" filepath="C:/Batch/.idea/Batch.iml" />
     </modules>
   </component>
 </project>

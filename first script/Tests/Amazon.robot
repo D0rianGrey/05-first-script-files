@@ -12,7 +12,7 @@ User must sign in to check out
     [Documentation]  This is some basic info about the test
     [Tags]  Smoke
     #Pre-condition
-    Open Browser  http://www.asiaworld.cn.ua   chrome
+    Open Browser  http://www.asiaworld.cn.ua  chrome
     wait until page contains  Обратный звонок
     input text  xpath=//input[@class="form-control"]   macbook air
     click button  xpath=//*[@id="full_search_form"]/span/button
